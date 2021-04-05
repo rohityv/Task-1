@@ -102,20 +102,15 @@ body{
 
 .menu-icon{
     margin-right: 1rem;
-    padding: .2rem;min-height:10vh;
 }
 .menu-icon a{
-    display: flex;min-height:2rem;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
     cursor: pointer;
 }
 .menu-icon a div{
     width:2rem;
     padding: .1rem;
     background-color: white;
-    margin:.2rem;
+    margin-bottom:.2rem;
     border-radius: 2px;
 }
 
